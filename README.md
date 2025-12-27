@@ -37,7 +37,8 @@ project/
 │
 └── scripts/
 
-## How to Use This Template
+```
+## 🚀 How to Use This Template
 
 Click Use this template
 
@@ -47,7 +48,7 @@ Clone it locally
 
 Start with exploratory analysis in the notebooks/ folder
 
-## Best Practices
+## 🧪 Best Practices
 
 Never modify files inside data/raw
 
@@ -55,7 +56,7 @@ Move validated notebook code to src/
 
 Track experiments and document decisions
 
-## Tech Stack
+## 📚 Tech Stack
 
 Python
 
