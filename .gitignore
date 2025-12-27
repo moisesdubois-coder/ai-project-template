@@ -1,0 +1,8 @@
+**Content**
+pycache/
+.env
+.ipynb_checkpoints
+.pkl
+.joblib
+data/raw/
+models/
