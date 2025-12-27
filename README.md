@@ -36,3 +36,31 @@ project/
 │   └── figures/
 │
 └── scripts/
+
+## How to Use This Template
+
+Click Use this template
+
+Create a new repository for your project
+
+Clone it locally
+
+Start with exploratory analysis in the notebooks/ folder
+
+## Best Practices
+
+Never modify files inside data/raw
+
+Move validated notebook code to src/
+
+Track experiments and document decisions
+
+## Tech Stack
+
+Python
+
+Pandas
+
+Scikit-learn
+
+Jupyter Notebook
